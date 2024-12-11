@@ -1,0 +1,8 @@
+streamlit
+tensorflow
+pretty_midi
+numpy
+pandas
+ipython
+pyfluidsynth
+fluidsynth
